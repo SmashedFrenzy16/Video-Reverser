@@ -6,6 +6,7 @@ This is a video reverser program made in Python using OpenCV.
 ## Requirements
 
 - Python 3
+- OpenCV - `pip install opencv-python`
 
 ## Run
 
