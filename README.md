@@ -12,3 +12,7 @@ This is a video reverser program made in Python using OpenCV.
 
 - Run `python3 main.py` in a terinal if you have Mac/Linux.
 - Run `python main.py` in a terminal if you have Windows.
+
+## Disclaimer
+
+Thanks to Geeksforgeeks for helping me making this code!
